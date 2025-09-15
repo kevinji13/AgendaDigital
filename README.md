@@ -33,13 +33,12 @@ Se ha diseñado bajo principios de **Programación Orientada a Objetos (POO)** y
 ---
 
 ##  Estructura del proyecto
-AgendaDigital/
-│
-├── Data/ # Contexto de base de datos (AppDb)
-├── Models/ # Clases de dominio (Usuario, Cliente, Interaccion, Recordatorio, Agenda)
-├── Utils/ # Utilidades (PasswordHasher, etc.)
-├── Forms/ # Formularios WinForms (Login, Principal, Clientes, Interacciones, Recordatorios, Usuarios)
-├── Program.cs # Punto de entrada de la aplicación
+AgendaDigital
+-Data/ # Contexto de base de datos (AppDb)
+-Models/ # Clases de dominio (Usuario, Cliente, Interaccion, Recordatorio, Agenda)
+-Utils/ # Utilidades (PasswordHasher, etc.)
+-Forms/ # Formularios WinForms (Login, Principal, Clientes, Interacciones, Recordatorios, Usuarios)
+-Program.cs # Punto de entrada de la aplicación
 
 ##  Usuarios iniciales
 
